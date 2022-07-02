@@ -1,2 +1,2 @@
 second.txt新規追加
-git statuss
+git statussgit 
